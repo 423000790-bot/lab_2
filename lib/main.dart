@@ -8,7 +8,7 @@ class CyberpunkLabApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Lab 2: Cyber-Prototype',
+      title: 'Lab 2: Advance Mobile Development',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark().copyWith(
         scaffoldBackgroundColor: const Color(0xFF03001C),
