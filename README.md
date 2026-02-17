@@ -1,7 +1,4 @@
-# lab_2
-<<<<<<< HEAD
 lab_2 Mobile Development
-=======
 
 A new Flutter project.
 
