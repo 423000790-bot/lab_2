@@ -180,4 +180,4 @@ class ScanlineOverlay extends StatelessWidget {
       ),
     );
   }
-} //Final sync test
+}
